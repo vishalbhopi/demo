@@ -1,0 +1,39 @@
+
+hello
+how may I help you
+good afternoon
+good afternoon
+Good Morning
+very Good Morning
+I am looking for online training
+Which course are you looking for?
+c++
+Are you looking for yourself or for a team of leraners in your company?
+myself
+I'll get you complete details and with discounted price
+I need some help
+Sure,how may i help you?
+How about course?
+This scholar training programe will transsform your ability to develop custom application utilizing the programming code you can check link httt://www..com
+Is this online or classroom Training?
+We provide online Instructor Led Training
+How can i join?
+you have the option to attend the course remotely from your Desktop via video conferencing.This format saves Productivity challanges and decreases your time.
+what If i have queries
+you can stop the trainner and ask the queries anytime.
+ok
+Great!Any thing else i can help you with?
+How about course fees
+Total fees of this course is 17000 INR|301 USD
+can you send details on my email
+yes sure
+thankyou
+You are welcome,Any thing else i can help you with?
+no
+ok then bye check your email for details.
+bye 
+bye bye
+
+
+
+ 
